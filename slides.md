@@ -204,7 +204,8 @@ L’IA générative aide aussi à **créer rapidement** des supports pédagogiqu
 ---
 
 # Merci de votre attention
- 
+
+![w:500](qrcode.png)
 
 ---
 
