@@ -8,6 +8,7 @@ style: |
     display: block;
     margin: 0 auto;
   }
+
 ---
 
 # Comment enseigner le Python à l'ère de l'intelligence artificielle générative ?
@@ -20,6 +21,17 @@ style: |
 
 ![w:400](miai.png)
 
+---
+# Mes biais de compréhension de l'IA
+
+- Diplôme d’**ingénieur en génie énergétique et nucléaire**
+
+- **7 ans d’expérience** en tant qu’ingénieur dans l’industrie électronucléaire (sites et centres d’ingénierie)
+
+- **6 ans d’activité** comme **formateur** indépendant en **données et intelligence artificielle**
+
+- **2 ans d’expérience** comme **ingénieur de recherche pédagogique en IA**
+  
 ---
 
 ## Comment enseigner le Python à l'ère de l'intelligence artificielle générative ?
