@@ -215,12 +215,6 @@ L’IA générative aide aussi à **créer rapidement** des supports pédagogiqu
 - Utilité de l'IA générative pour **faciliter l'accès à des outils open-source Python** dans l'enseignement
 ---
 
-# Merci de votre attention
-
-![w:500](qrcode.png)
-
----
-
 ## 📚 Bibliographie : pourquoi apprendre à l'ère de l'intelligence artificielle générative ?
 
 - [Intelligence artificielle. Le jour où nous n’aurons plus besoin d’apprendre](https://www.courrierinternational.com/long-format/ia-le-jour-ou-nous-n-aurons-plus-besoin-d-apprendre), Courrier International, N°1819, 11/09/25 - 17/09/25
@@ -246,3 +240,9 @@ L’IA générative aide aussi à **créer rapidement** des supports pédagogiqu
 - [Teaching CS50 with AI](https://www.youtube.com/watch?v=6rAWxGAG6EI), 2025
 
 - [Improving AI in CS50](https://cs.harvard.edu/malan/publications/fp0627-liu.pdf), Harvard, 2025
+
+---
+
+# Merci de votre attention
+
+![w:500](qrcode.png)
